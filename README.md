@@ -1,11 +1,17 @@
 # static-site-boot
-A simple sattic site build with weback and have type sciprt and sass support 
+A simple sattic site build with weback and have type sciprt and sass support.
+
+Including  [bulma](https://bulma.io/) :  the modern
+CSS framework that
+just works.   
 
 ## Intsall 
 
 ```bash 
 git clone https://github.com/shrikster/static-site-boot
+
 cd static-site-boot
+
 npm i
 ```
 
